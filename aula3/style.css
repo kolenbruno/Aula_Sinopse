@@ -61,7 +61,7 @@ h2 {
     list-style: none;
 }
 
-.botao {
+#trailer-link {
     display: inline-block;
     background-color: #e50914;
     color: white;
@@ -73,7 +73,7 @@ h2 {
     margin-top: 15px;
 }
 
-.botao:hover {
+#trailer-link:hover {
     background-color: #ffffff;
     color: #e50914;
 }
